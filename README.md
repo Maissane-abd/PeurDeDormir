@@ -39,6 +39,6 @@ Les contributions sont les bienvenues ! Merci d'ouvrir une issue pour discuter
 
 ## Aperçu
 
-![Aperçu du site](/Users/maissane_abd/Desktop/Homepage_PDD.png)(![Homepage_peurdedormir](Homepage_PDD(2).png))
+![Aperçu du site](Homepage_PDD.png)(![Aperçu du site](Homepage_PDD(2).png))
 
 Visitez le site : [Peur de Dormir](peurdedormir.com)
